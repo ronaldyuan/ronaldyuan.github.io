@@ -146,7 +146,7 @@ img {
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 50px;
+  height: 150px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
@@ -155,7 +155,7 @@ img {
   padding-top: 5px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 40px;
+  height: 140px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -206,7 +206,7 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 200px;
+    width: 200px;  /* this changes the profile pic size */
     margin-top: -50px;
   }
 
