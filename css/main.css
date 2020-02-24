@@ -59,7 +59,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .main-content {
-    padding-top: 130px;
+    padding-top: 230px;
   }
 }
 
@@ -146,7 +146,7 @@ img {
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 150px;
+  height: 50px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
@@ -155,7 +155,7 @@ img {
   padding-top: 5px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 140px;
+  height: 40px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -206,7 +206,7 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 200px;  /* this changes the profile pic size */
+    width: 200px;  /* this changes the profile pic */
     margin-top: -50px;
   }
 
