@@ -59,7 +59,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .main-content {
-    padding-top: 230px;
+    padding-top: 130px;
   }
 }
 
@@ -140,7 +140,7 @@ img {
 }
 
 .navbar-custom .navbar-brand-logo {
-  padding-top: 0;
+  padding-top: 100;
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
